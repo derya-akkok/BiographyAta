@@ -1,0 +1,35 @@
+#ana {
+	width:1020px;
+	height:800px;
+	margin:auto;
+	background-color:#FDF5E5;
+
+	}
+
+#ust {
+	width:1020px;
+	height:191px;
+	background:url(../resim/ea.png) center no-repeat;
+	}
+
+#menu {
+	width:1020px;
+	height:34px;
+	background-color:#CCC;
+	}
+	
+	
+#sag {
+	float:right;
+	width:1020px;
+	height:300px;
+	background-color:#FDF5E5;
+	font-size:16px;
+	color:#000000;
+	font-family:"Arial Black", Gadget, sans-serif;
+	}
+	
+
+	
+	
+	

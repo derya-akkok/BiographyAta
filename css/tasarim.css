@@ -1,0 +1,44 @@
+#ana {
+	width:1020px;
+	height:1500px;
+	margin:auto;
+	background-color:#FDF5E5;
+
+	}
+
+#ust {
+	width:1020px;
+	height:191px;
+	background:url(../resim/ea.png) center no-repeat;
+	}
+
+#menu {
+	width:1020px;
+	height:34px;
+	background-color:#CCC;
+	}
+	
+	
+#sag {
+	float:right;
+	width:1020px;
+	height:1239px;
+	background-color:#FDF5E5;
+	font-size:16px;
+	color:#000000;
+	font-family:"Arial Black", Gadget, sans-serif;
+	}
+	
+#alt {
+	clear:both;
+	width:1020px;
+	height:50px;
+	background:url(../resim/alt.png) center no-repeat;
+	font:normal 13px "Times New Roman";
+	color:#FFF;
+	text-align:center;
+	vertical-align:middle;
+	}
+	
+	
+	
